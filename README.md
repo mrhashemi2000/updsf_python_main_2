@@ -7,13 +7,16 @@ Multiphysics Simulations of Chemical Selection for DNA in Hydrothermal Environme
 
 
 https://doi.org/10.5281/zenodo.20733760
+
 https://doi.org/10.5281/zenodo.20759622
+
 https://doi.org/10.5281/zenodo.20771213
+
 https://doi.org/10.5281/zenodo.18594133
 
-Author: Seyed Mohammad Reza Hashemi (Reza Hashemi) 
+## Author: Seyed Mohammad Reza Hashemi (Reza Hashemi) 
 
-Python 3.8+
+Environment: 🐍 Python 3.8+
 
 ## Overview
 UPDSF is a comprehensive computational framework designed to simulate the RNA-to-DNA transition in prebiotic hydrothermal environments. It integrates three core stochastic engines:
