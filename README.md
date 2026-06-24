@@ -25,14 +25,15 @@ Key Features in v1.2
 - High Performance: Optimized using Numba (JIT compilation) for Monte Carlo simulations.
 - Robustness:* Added division-by-zero protections and corrected distance transform algorithms.
 
-Installation
-git clone https://github.com/mrhashemi2000/UPDSF-Framework.git
+## Installation
+```bash
+git clone https://github.com/mrhashemi2000/updsf_python_main_2.git
 pip install -r requirements.txt
 
-Quick Start
+## Quick Start
 Run the full 72-hour simulation demo:
 python updsf_main.py
 
-Citation
+## Citation
 If you use this framework in your research, please cite it as:
-Hashemi, S. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v1.2. https://doi.org/10.5281/zenodo.20825578
+> Hashemi, S. M. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v1.2. https://doi.org/10.5281/zenodo.20825578
