@@ -29,11 +29,13 @@ Key Features in v1.2
 ```bash
 git clone https://github.com/mrhashemi2000/updsf_python_main_2.git
 pip install -r requirements.txt
-
+```
 ## Quick Start
 Run the full 72-hour simulation demo:
+```bash
 python updsf_main.py
-
+```
 ## Citation
 If you use this framework in your research, please cite it as:
 > Hashemi, S. M. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v1.2. https://doi.org/10.5281/zenodo.20825578
+
