@@ -32,4 +32,4 @@ python updsf_main.py
 
 Citation
 If you use this framework in your research, please cite it as:
-Hashemi, S. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v1.2. Zenodo. DOI: 10.5281/zenodo.20733760
+Hashemi, S. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v1.2. https://doi.org/10.5281/zenodo.20825578
