@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20825578-blue)](https://doi.org/10.5281/zenodo.20825578)
+`[!DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20825578-blue) [!License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC BY--NC--ND 4.0-lightgrey.svg)`
 
 # updsf_python_main_2
 
