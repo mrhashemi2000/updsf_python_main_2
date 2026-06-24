@@ -13,14 +13,16 @@ https://doi.org/10.5281/zenodo.18594133
 
 Author: Seyed Mohammad Reza Hashemi (Reza Hashemi) 
 
-Overview
+Python 3.8+
+
+## Overview
 UPDSF is a comprehensive computational framework designed to simulate the RNA-to-DNA transition in prebiotic hydrothermal environments. It integrates three core stochastic engines:
 
 1. VSSUF (Vent Stochasticity Seals Uracil's Fate): Simulates selective monomer hydrolysis.
 2. RD Converter: Models the clay-protected conversion of ribose to deoxyribose.
 3. HYDRA (Hydrothermal Dynamics of Replicative Amplification): Simulates polymer-level selection within pore networks using thermophoresis and diffusion.
 
-Key Features in v1.2
+## Key Features in v1.2
 - Scientifically Validated Rates: Kinetic parameters derived from literature (Kawamura 2003, Marrone 2010).
 - High Performance: Optimized using Numba (JIT compilation) for Monte Carlo simulations.
 - Robustness:* Added division-by-zero protections and corrected distance transform algorithms.
