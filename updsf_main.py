@@ -3,7 +3,7 @@ UNIFIED PREBIOTIC DNA SELECTION FRAMEWORK (UPDSF)
 =================================================
 Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)
 Version: 1.2 (FIXED)
-DOI: 10.5281/zenodo.20733760
+DOI: 10.5281/zenodo.20825578
 
 This framework integrates VSSUF, RD Converter v2.1, and HYDRA v2.1
 into a single cohesive computational system for simulating the
@@ -1685,8 +1685,8 @@ if __name__ == "__main__":
     ║                                                              ║
     ║   UNIFIED PREBIOTIC DNA SELECTION FRAMEWORK (UPDSF) v1.2    ║
     ║                                                              ║
-    ║   Author: Seyed Reza Hashemi (Reza Hashemi)                 ║
-    ║   DOI: 10.5281/zenodo.20733760                              ║
+    ║   Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)                 ║
+    ║   DOI: 10.5281/zenodo.20825578                              ║
     ║                                                              ║
     ║   FIXES IN v1.2:                                            ║
     ║   ✅ Corrected distance transform algorithm                  ║
