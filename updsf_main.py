@@ -1,7 +1,7 @@
 """
 UNIFIED PREBIOTIC DNA SELECTION FRAMEWORK (UPDSF)
 =================================================
-Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)
+Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)  Intelligence-Augmented (IA)
 Version: 1.2 (FIXED)
 DOI: 10.5281/zenodo.20825578
 
