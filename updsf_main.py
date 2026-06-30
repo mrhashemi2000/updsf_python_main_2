@@ -3,6 +3,9 @@ UNIFIED PREBIOTIC DNA SELECTION FRAMEWORK (UPDSF)
 =================================================
 Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)  Intelligence-Augmented (IA)
 Version: 1.2 (FIXED)
+License & Copyright
+Copyright ©️ 2026 Seyed Mohammad Reza Hashemi  
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 DOI: 10.5281/zenodo.20825578
 
 This framework integrates VSSUF, RD Converter v2.1, and HYDRA v2.1
